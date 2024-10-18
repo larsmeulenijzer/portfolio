@@ -10,14 +10,14 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 ## Table of Contents
 
-- [Introduction](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#introduction)
-- [Projects](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#projects)
+- [Introduction](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/8b0369507f697f7ad39cf1e78c40ae4da24677d7/README.md#introduction)
+- [Projects](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/8b0369507f697f7ad39cf1e78c40ae4da24677d7/README.md#projects)
   - Python
-    - [Binary Alloys Monte Carlo Simulation](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#binary-alloys-monte-carlo-simulation)
+    - [Binary Alloys Monte Carlo Simulation](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/8b0369507f697f7ad39cf1e78c40ae4da24677d7/README.md#binary-alloys-monte-carlo-simulation)
   - R
-    - [Mortality Statistical Analysis](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#mortality-statistical-analysis)
+    - [Mortality Statistical Analysis](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/8b0369507f697f7ad39cf1e78c40ae4da24677d7/README.md#mortality-statistical-analysis)
   - SQL
-    - [Exoplanet Data Exploration](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#exoplanet-data-exploration)
+    - [Exoplanet Data Exploration](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/8b0369507f697f7ad39cf1e78c40ae4da24677d7/README.md#exoplanet-data-exploration)
 
 ## Projects
 
