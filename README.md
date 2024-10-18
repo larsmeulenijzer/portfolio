@@ -10,14 +10,14 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 ## Table of Contents
 
-- (Introduction link)
-- (Projects link)
-  - (Python link)
-    - (Binary Alloys Monte Carlo Simulation link)
-  - (R link)
-    - (Mortality Statistical Analysis link)
-  - (SQL link)
-    - (Exoplanet Data Exploration link)
+- [Introduction](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#introduction)
+- [Projects](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#projects)
+  - Python
+    - [Binary Alloys Monte Carlo Simulation](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#binary-alloys-monte-carlo-simulation)
+  - R
+    - [Mortality Statistical Analysis](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#mortality-statistical-analysis)
+  - SQL
+    - [Exoplanet Data Exploration](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/43e4ff7909a15a5cfacebe91639bf591fb14ca68/README.md#exoplanet-data-exploration)
 
 ## Projects
 
@@ -55,6 +55,5 @@ Bachelor of Physics, KU Leuven, Magna Cum Laude, 2019 - 2022
 
 ## Contacts
 
-- (email link)
-
-- (LinkedIn link)
+- Email: larsmeulenijzer@gmail.com
+- LinkedIn: [@larsmeulenijzer](https://www.linkedin.com/in/lars-meulenijzer-3626a8323/)
