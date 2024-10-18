@@ -25,7 +25,7 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 **Type:** Python project
 
-**Code:** (link)
+**Code:** [binary_alloys.ipynb](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/64a125c4c521e4549535697b0f1cfe7eb6d4d84f/Python/Binary%20Alloys%20Monte%20Carlo%20Simulation/binary_alloys.ipynb)
 
 **Summary:** The goal is to simulate a physical process. A binary alloy is a material with two types of atoms. Usually, these are metals. The simulation considers the formation of a thin metal coating that forms when the vaporized atoms condense onto a surface. The question is whether the two types of atoms will mix. Since we are asking a simple question about a system with a large number of identical degrees of freedom, Monte Carlo simulations are ideal for answering this question.
 
