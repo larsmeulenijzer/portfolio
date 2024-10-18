@@ -33,7 +33,7 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 **Type:** R project
 
-**Code:** (link)
+**Code:** [mortality_in_european_countries_by_age.ipynb](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/ebc924629ee6f17271f65446dc54578a04904ce0/R/Mortality%20Statistical%20Analysis/mortality_in_european_countries_by_age.ipynb)
 
 **Summary:** The goal is to find statistically significant trends in a dataset with the Mortality rates of European countries in 2018. Two different clusters are discerned within the data and it is found in which ways these clusters differ significantly. Several more statistical techniques are demonstrated. The statistical analysis is carried out very carefully and precisely.
 
