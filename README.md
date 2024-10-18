@@ -41,7 +41,7 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 **Type:** SQL project
 
-**Code:** (link)
+**Code:** [exoplanets.sql](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/3e30e38c23ec009cded9cc4ebba5162c5467a5bc/SQL/Exoplanet%20Data%20Exploration/exoplanets.sql) and ()
 
 **Summary:** The goal is to explore a table of all exoplanets that have been discovered so far. Several basic SQL queries are demonstrated. This project is limited to manipulating only a single table.
 
