@@ -18,6 +18,8 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
     - [Mortality Statistical Analysis](#mortality-statistical-analysis)
   - SQL
     - [Exoplanet Data Exploration](#exoplanet-data-exploration)
+  - Tableau
+    - [CO₂ Emission in Flanders](#co₂-emission-in-flanders)
 
 ## Projects
 
@@ -43,7 +45,15 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 **Code:** [exoplanets.sql](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/3e30e38c23ec009cded9cc4ebba5162c5467a5bc/SQL/Exoplanet%20Data%20Exploration/exoplanets.sql) and [queries_and_outputs.ipynb](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/2c2a999e5ed3007e4b6ef7ea7b1ebf9c60e43426/SQL/Exoplanet%20Data%20Exploration/queries_and_outputs.ipynb)
 
-**Summary:** The goal is to explore a table of all exoplanets that have been discovered so far. Several basic SQL queries are demonstrated. This project is limited to manipulating only a single table.
+**Summary:** The goal is to explore a table of all exoplanets discovered so far. Several basic SQL queries are demonstrated. This project is limited to manipulating only a single table.
+
+### CO₂ Emission in Flanders
+
+**Type:** Tableau project
+
+**Link to project:** [Tableau](https://public.tableau.com/app/profile/lars.meulenijzer/viz/COEmissioninFlanders/Dashboard1)
+
+**Summary:** The goal is to visualize how CO₂ emissions in Flanders have changed from 2011 to 2022. The data is shown on an interactive map.
 
 ## Education
 
