@@ -19,7 +19,7 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
   - SQL
     - [Exoplanet Data Exploration](#exoplanet-data-exploration)
   - Tableau
-    - [CO₂ Emission in Flanders](#emission-in-flanders)
+    - [CO₂ Emission in Flanders](#co-emission-in-flanders)
 
 ## Projects
 
