@@ -19,7 +19,7 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
   - SQL
     - [Exoplanet Data Exploration](#exoplanet-data-exploration)
   - Tableau
-    - [CO₂ Emission in Flanders](#co₂-emission-in-flanders)
+    - [CO₂ Emission in Flanders](#emission-in-flanders)
 
 ## Projects
 
@@ -51,7 +51,7 @@ This portfolio showcases some of the projects that I have worked on. Its purpose
 
 **Type:** Tableau project
 
-**Link to project:** [Tableau](https://public.tableau.com/app/profile/lars.meulenijzer/viz/COEmissioninFlanders/Dashboard1)
+**Link to project:** [public.tableau.com](https://public.tableau.com/app/profile/lars.meulenijzer/viz/COEmissioninFlanders/Dashboard1)
 
 **Summary:** The goal is to visualize how CO₂ emissions in Flanders have changed from 2011 to 2022. The data is shown on an interactive map.
 
