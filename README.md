@@ -14,6 +14,7 @@ This portfolio is currently still under construction. New projects are still add
 - [Projects](#projects)
   - Python
     - [Binary Alloys Monte Carlo Simulation](#binary-alloys-monte-carlo-simulation)
+    - [Satellites Hologram](#satellites-hologram)
   - R
     - [Mortality Statistical Analysis](#mortality-statistical-analysis)
   - SQL
