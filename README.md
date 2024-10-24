@@ -1,8 +1,8 @@
-# Lars Meulenijzer - Portfolio of Data Analysis Projects
+# Lars Meulenijzer - Portfolio
 
 ## Introduction
 
-I am Lars. I am passionate about science and solving problems analytically or by coding. Here is my [CV](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/63a309738b6339f109d634654cdafabfb9f3d84e/curriculum_vitae_Meulenijzer_Lars.pdf). I obtained a master's degree in theoretical physics and I obtained two bachelor's degrees (physics and mathematics) simultaneously. I have always followed my passion and wish to continue doing so. For that reason, I decided to pursue a career in data analytics. I always continue teaching myself new skills relevant to data science and honing my existing skills.
+I am Lars. I am passionate about science and solving problems analytically or by coding. I obtained a master's degree in theoretical physics and I obtained two bachelor's degrees (physics and mathematics) simultaneously. I have always followed my passion and wish to continue doing so. I always continue teaching myself new skills and honing my existing skills.
 
 This portfolio showcases some of the projects that I have worked on. Its purpose is to show not only my competence but also my ability to adapt and keep learning. I keep on adding new projects using new tools and programming languages. This document provides a link to the code of each project as well as a summary of the projects. I made all the digital drawings used in these projects.
 
@@ -66,4 +66,3 @@ Bachelor of Physics, KU Leuven, Magna Cum Laude, 2019 - 2022
 ## Contacts
 
 - Email: larsmeulenijzer@gmail.com
-- LinkedIn: [@larsmeulenijzer](https://www.linkedin.com/in/lars-meulenijzer-3626a8323/)
