@@ -2,9 +2,9 @@
 
 ## Introduction
 
-I am Lars. I am passionate about science and solving problems analytically or by coding. I obtained a master's degree in theoretical physics and I obtained two bachelor's degrees (physics and mathematics) simultaneously. I have always followed my passion and wish to continue doing so. I always continue teaching myself new skills and honing my existing skills.
+I am Lars. I am passionate about science and solving problems analytically or by coding. I obtained a master's degree in theoretical physics and I obtained two bachelor's degrees (physics and mathematics) simultaneously. I have always followed my passion and wish to continue doing so. I continue teaching myself new skills and honing my existing skills.
 
-This portfolio showcases some of the projects that I have worked on. Its purpose is to show not only my competence but also my ability to adapt and keep learning. I keep on adding new projects using new tools and programming languages. This document provides a link to the code of each project as well as a summary of the projects. I made all the digital drawings used in these projects.
+This portfolio showcases some of the projects that I have worked on. Its purpose is to show not only my competence but also my ability to adapt and keep learning. I keep on adding new projects using new tools and programming languages. This document provides a link to the details of each project as well as a summary of the projects. I made all the digital drawings used in these projects.
 
 This portfolio is currently still under construction. New projects are still added every week.
 
