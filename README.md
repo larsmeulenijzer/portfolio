@@ -1,10 +1,10 @@
-# Lars Meulenijzer - Portfolio
+# Lars Meulenijzer - Portfolio of Data Analysis Projects
 
 ## Introduction
 
-I am Lars. I am passionate about science and solving problems analytically or by coding. I obtained a master's degree in theoretical physics and I obtained two bachelor's degrees (physics and mathematics) simultaneously. I have always followed my passion and wish to continue doing so. I continue teaching myself new skills and honing my existing skills.
+I am Lars. I am passionate about science and solving problems analytically or by coding. Here is my [CV](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/63a309738b6339f109d634654cdafabfb9f3d84e/curriculum_vitae_Meulenijzer_Lars.pdf). I obtained a master's degree in theoretical physics and I obtained two bachelor's degrees (physics and mathematics) simultaneously. I have always followed my passion and wish to continue doing so. For that reason, I decided to pursue a career in data analytics. I always continue teaching myself new skills relevant to data science and honing my existing skills.
 
-This portfolio showcases some of the projects that I have worked on. Its purpose is to show not only my competence but also my ability to adapt and keep learning. I keep on adding new projects using new tools and programming languages. This document provides a link to the details of each project as well as a summary of the projects. I made all the digital drawings used in these projects.
+This portfolio showcases some of the projects that I have worked on. Its purpose is to show not only my competence but also my ability to adapt and keep learning. I keep on adding new projects using new tools and programming languages. This document provides a link to the code of each project as well as a summary of the projects. I made all the digital drawings used in these projects.
 
 This portfolio is currently still under construction. New projects are still added every week.
 
@@ -14,7 +14,6 @@ This portfolio is currently still under construction. New projects are still add
 - [Projects](#projects)
   - Python
     - [Binary Alloys Monte Carlo Simulation](#binary-alloys-monte-carlo-simulation)
-    - [Satellites Hologram](#satellites-hologram)
   - R
     - [Mortality Statistical Analysis](#mortality-statistical-analysis)
   - SQL
@@ -31,14 +30,6 @@ This portfolio is currently still under construction. New projects are still add
 **Code:** [binary_alloys.ipynb](https://github.com/larsmeulenijzer/data_analyst_portfolio/blob/64a125c4c521e4549535697b0f1cfe7eb6d4d84f/Python/Binary%20Alloys%20Monte%20Carlo%20Simulation/binary_alloys.ipynb)
 
 **Summary:** The goal is to simulate a physical process. A binary alloy is a material with two types of atoms. Usually, these are metals. The simulation considers the formation of a thin metal coating that forms when the vaporized atoms condense onto a surface. The question is whether the two types of atoms will mix. Since we are asking a simple question about a system with a large number of identical degrees of freedom, Monte Carlo simulations are ideal for answering this question.
-
-### Satellites Hologram
-
-**Type:** Python project
-
-**Result:** [satellites_hologram.mp4](https://github.com/larsmeulenijzer/portfolio/blob/614d0a71afd38535acebc97e5dea675c2c3518c8/Python/Satellites%20Hologram/satellites_hologram.mp4)
-
-**Summary:** The goal is to showcase the satellites that are important to the research of the Royal Observatory of Belgium. The video is meant to be projected on a glass plate to give the illusion of being a 3D hologram. The video is the result of a small amount of Photoshop and a large amount of Python code. The project was done in collaboration with Ruben Van Dijck and Nolle Everaert. The video was compressed before being uploaded to this portfolio in order to keep the file size manageable.
 
 ### Mortality Statistical Analysis
 
@@ -75,3 +66,4 @@ Bachelor of Physics, KU Leuven, Magna Cum Laude, 2019 - 2022
 ## Contacts
 
 - Email: larsmeulenijzer@gmail.com
+- LinkedIn: [@larsmeulenijzer](https://www.linkedin.com/in/lars-meulenijzer-3626a8323/)
